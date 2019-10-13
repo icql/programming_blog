@@ -6,8 +6,8 @@ email: linling_tomas@qq.com
 description: ""
 keyword: "tomas家的小拨浪鼓, Java, 机器学习"
 url: "http://linling1.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/linling1/linling1.github.io.git" # you code repository
+baseurl: "/programming_blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/linling1/programming_blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
