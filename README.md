@@ -34,6 +34,7 @@ bundle exec jekyll serve --host 0.0.0.0
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8no3v9inpj30rw0jl76j.jpg)
 
+
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8no53faslj30t10gugnz.jpg)
 
 如果发生如上情况，很有可能是因为 Github 使用了较新版本的 jekyll，而你本地调试的 jekyll 版本低于 Github 使用的版本，所以即使你使用以前的本地 jekyll 编译没有问题，远端的 jekyll 编译时也可能出错。
